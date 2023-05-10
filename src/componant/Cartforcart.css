@@ -1,0 +1,14 @@
+.add{
+    margin-left: 10%;
+    display: flex;  
+}
+.remove{
+    margin-left: 60%;
+    padding: 2px;
+    box-shadow: 1px 1px 2px 2px ;
+}
+.product_img img{
+    margin-left: 25%;
+    width: 250px;
+    padding-top: 5px;
+}
